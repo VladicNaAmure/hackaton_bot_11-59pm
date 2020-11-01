@@ -9,6 +9,6 @@ Solution - Подтягивает обработанные данные и об�
 
 https://colab.research.google.com/drive/1e6eZZXZGXGGMrSbM8bez29h7Jx4zaf1Z?usp=sharing
 
-![ROC curve](https://github.com/VladicNaAmure/hackaton_bot_11/raw/master/images/p1.png)
+![ROC curve](https://github.com/VladicNaAmure/hackaton_bot_11/master/images/p1.png)
 
-![ROC curve](https://github.com/VladicNaAmure/Insilico-Medicine/raw/master/images/ROC_Kaggel.png)
+
